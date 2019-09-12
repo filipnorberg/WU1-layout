@@ -1,0 +1,19 @@
+main {
+    width: 80%;
+    /* display:flex; */
+    margin: 0 auto;
+}
+
+body{
+    background-image: url(https://i.imgur.com/SOnSInc.jpg);
+    background-size: 150px;
+}
+}
+nav {
+    /* width: 20%; */
+}
+
+section {
+    /* width: 80% */
+    color: greenyellow;
+}
